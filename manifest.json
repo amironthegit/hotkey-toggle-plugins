@@ -1,0 +1,10 @@
+{
+  "id": "hotkey-toggle",
+  "name": "Hotkey Toggle Plugins",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Define hotkeys to toggle any plugin",
+  "author": "Mohammad Amir Nazarpour",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
