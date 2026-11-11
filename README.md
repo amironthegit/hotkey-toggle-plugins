@@ -1,0 +1,1 @@
+# hotkey-toggle-plugins
